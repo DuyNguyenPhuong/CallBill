@@ -32,6 +32,10 @@
 $ npm install
 ```
 
+## Đổi config database
+
+Vào file orm.config.ts để đổi pass, user database
+
 ## Running the app
 
 ```bash
