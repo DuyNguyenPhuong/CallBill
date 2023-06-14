@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) Framework to calculate electricity bill
 
 ## Installation
 
@@ -32,7 +32,7 @@
 $ npm install
 ```
 
-## Đổi config database
+## Change config
 
 Vào file orm.config.ts để đổi pass, user database
 
