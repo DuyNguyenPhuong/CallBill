@@ -83,7 +83,7 @@ In countries such as Vietnam, phone bill are calculated based on the minutes you
 
 ## 🔧 Built With
 
-[![Nest.js][Nest.js]][Kotlin-url] <br>
+![Nest.js][Next.js] <br>
 ![Java][Java]
 
 
